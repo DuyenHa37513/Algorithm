@@ -10,15 +10,6 @@ import java.util.Map;
 import java.util.Random;
 
 public class TwoSum_1 {
-//    @Before
-//    public void nums(){
-//        Random rd = new Random();
-//        int[] nums = new int[5];
-//        for(int i = 0; i < nums.length; i++){
-//            nums[i] = rd.nextInt();
-//            System.out.println(nums);
-//        }
-//    }
 
         public static int[] sumTwo(int[] nums, int target){
             Map<Integer, Integer> map = new HashMap<>();

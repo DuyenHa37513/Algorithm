@@ -26,6 +26,8 @@ public class TwoSum_1 {
 
     public static void main(String[] args) {
         int[] a = {3,4,6,6,4};
+        //TODO
+        //random a and target
             System.out.println(Arrays.toString(sumTwo(a,8)));
 
         }
